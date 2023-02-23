@@ -54,4 +54,4 @@ management:
     defaults:
       enabled: true
 chatgpt:
-  api-key: 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
+  api-key: 

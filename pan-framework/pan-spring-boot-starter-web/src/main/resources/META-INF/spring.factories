@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  top.xhq.pan.framework.nacos.config.PanNacosAutoConfiguration,\
+  top.xhq.pan.framework.web.config.PanWebAutoConfiguration

@@ -1,0 +1,14 @@
+# Project exclude paths
+/pan-common/target/
+/pan-core-gateway/target/
+/pan-core-page/target/
+/pan-core-service/target/
+/pan-edge-service/target/
+/pan-file-gateway/target/
+/pan-file-service/target/
+/pan-framework/pan-spring-boot-starter-redis/target/
+/pan-framework/pan-spring-boot-starter-web/target/
+/pan-regist-page/target/
+/pan-service-api/target/
+/pan-share-service/target/
+/pan-user-service/target/

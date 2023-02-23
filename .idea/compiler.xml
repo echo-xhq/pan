@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pan-share-service" />
+        <module name="pan-user-service" />
+        <module name="pan-core-service" />
+        <module name="pan-file-service" />
+        <module name="pan-regist-page" />
+        <module name="pan-file-gateway" />
+        <module name="pan-spring-boot-starter-web" />
+        <module name="pan-core-gateway" />
+        <module name="pan-edge-service" />
+        <module name="pan-common" />
+        <module name="pan-core-page" />
+        <module name="pan-spring-boot-starter-redis" />
+        <module name="pan-service-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pan-common" target="1.8" />
+      <module name="pan-core-gateway" target="1.8" />
+      <module name="pan-core-page" target="1.8" />
+      <module name="pan-core-service" target="1.8" />
+      <module name="pan-edge-service" target="1.8" />
+      <module name="pan-file-gateway" target="1.8" />
+      <module name="pan-file-service" target="1.8" />
+      <module name="pan-framework" target="8" />
+      <module name="pan-parent" target="1.8" />
+      <module name="pan-regist-page" target="1.8" />
+      <module name="pan-service-api" target="1.8" />
+      <module name="pan-share-service" target="1.8" />
+      <module name="pan-spring-boot-starter-redis" target="8" />
+      <module name="pan-spring-boot-starter-web" target="8" />
+      <module name="pan-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pan-common" options="-parameters" />
+      <module name="pan-core-gateway" options="-parameters" />
+      <module name="pan-core-page" options="-parameters" />
+      <module name="pan-core-service" options="-parameters" />
+      <module name="pan-edge-service" options="-parameters" />
+      <module name="pan-file-gateway" options="-parameters" />
+      <module name="pan-file-service" options="-parameters" />
+      <module name="pan-regist-page" options="-parameters" />
+      <module name="pan-service-api" options="-parameters" />
+      <module name="pan-share-service" options="-parameters" />
+      <module name="pan-spring-boot-starter-redis" options="-parameters" />
+      <module name="pan-spring-boot-starter-web" options="-parameters" />
+      <module name="pan-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

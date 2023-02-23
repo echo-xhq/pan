@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pan-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-core-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-core-page/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-core-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-edge-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-file-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-file-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-regist-page/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-share-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pan-user-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

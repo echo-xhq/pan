@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pan.iml" filepath="$PROJECT_DIR$/.idea/pan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-common/pan-common.iml" filepath="$PROJECT_DIR$/pan-common/pan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-core-gateway/pan-core-gateway.iml" filepath="$PROJECT_DIR$/pan-core-gateway/pan-core-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-core-page/pan-core-page.iml" filepath="$PROJECT_DIR$/pan-core-page/pan-core-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-core-service/pan-core-service.iml" filepath="$PROJECT_DIR$/pan-core-service/pan-core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-edge-service/pan-edge-service.iml" filepath="$PROJECT_DIR$/pan-edge-service/pan-edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-file-gateway/pan-file-gateway.iml" filepath="$PROJECT_DIR$/pan-file-gateway/pan-file-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-file-service/pan-file-service.iml" filepath="$PROJECT_DIR$/pan-file-service/pan-file-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-framework/pan-framework.iml" filepath="$PROJECT_DIR$/pan-framework/pan-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-parent/pan-parent.iml" filepath="$PROJECT_DIR$/pan-parent/pan-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-regist-page/pan-regist-page.iml" filepath="$PROJECT_DIR$/pan-regist-page/pan-regist-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-service-api/pan-service-api.iml" filepath="$PROJECT_DIR$/pan-service-api/pan-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-share-service/pan-share-service.iml" filepath="$PROJECT_DIR$/pan-share-service/pan-share-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-framework/pan-spring-boot-starter-redis/pan-spring-boot-starter-redis.iml" filepath="$PROJECT_DIR$/pan-framework/pan-spring-boot-starter-redis/pan-spring-boot-starter-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-framework/pan-spring-boot-starter-web/pan-spring-boot-starter-web.iml" filepath="$PROJECT_DIR$/pan-framework/pan-spring-boot-starter-web/pan-spring-boot-starter-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pan-user-service/pan-user-service.iml" filepath="$PROJECT_DIR$/pan-user-service/pan-user-service.iml" />
+    </modules>
+  </component>
+</project>
